@@ -46,7 +46,7 @@ li{
     box-shadow: 6px 6px 6px black;
 }
 .fotos img:hover{
-    transform: scale(1.6);
+    transform: scale(1.2);
 }
 
 .playlist{
