@@ -14,14 +14,6 @@ body{
     background-image: url("./assets/fundoooooo.png");
     opacity: 5;
 }
-ul {
-    list-style: none;
-}
-li{
-    display: inline;
-    margin-right: 15px;
-    margin-bottom: 10px;
-}
 
 .fotos{
     display: flex;
